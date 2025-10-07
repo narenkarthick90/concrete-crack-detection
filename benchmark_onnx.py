@@ -4,7 +4,6 @@ import psutil, time, os, argparse, glob
 from PIL import Image
 
 def preprocess_image(image_path, input_shape):
-    """Load and preprocess an image for ONNX model"""
     img = Image.open(image_path).convert('RGB')
     img = img.resize((input_shape[3], input_shape[2]))
     img_data = np.array(img).astype(np.float32) / 255.0
