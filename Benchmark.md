@@ -8,5 +8,6 @@
 <br>
 **Model size**: **11.58 MB**
 <br>
-For more results: https://github.com/narenkarthick90/concrete-crack-detection/blob/main/results/crack_detector/results.csv
-Result plots: https://github.com/narenkarthick90/concrete-crack-detection/blob/main/results/crack_detector/results.png
+For more results: https://github.com/narenkarthick90/concrete-crack-detection/blob/main/results/crack_detector/results.csv <br>
+Result plots: https://github.com/narenkarthick90/concrete-crack-detection/blob/main/results/crack_detector/results.png <br>
+Detailed results (with epoch-wise mAP@0.5): https://github.com/narenkarthick90/concrete-crack-detection/blob/main/Epochs.txt
