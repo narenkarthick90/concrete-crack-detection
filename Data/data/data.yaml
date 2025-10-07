@@ -1,0 +1,7 @@
+path: C:\Users\naren\Desktop\ZW Task 2\data\data
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: crack
+nc: 1

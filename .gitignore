@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# PyCharm
+.idea/
+
+# Checkpoints / logs
+*.log
+*.plan
+
+# Datasets
+Data/data/images
+Data/data/labels
+Data/images
+Data/labels
+
+# System files
+.DS_Store
+Thumbs.db
