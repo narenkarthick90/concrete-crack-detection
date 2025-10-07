@@ -588,6 +588,7 @@ All preprocessing, training configuration, augmentation strategies, analysis, an
 **Acknowledgments:**
 - Ultralytics team for YOLOv8 and crack-seg dataset
 - PyTorch and CUDA teams for deep learning infrastructure
--
+- ChatGPT (OpenAI GPT-5, 2025) & Claude 3 – was used as a learning and coding assistant for code structuring, documentation refinement and explanation refinement. All implementation decisions and final outputs were independently verified and executed by me.
 
 ---
+
