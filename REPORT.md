@@ -125,7 +125,6 @@ Image Size: 640×640
 Epochs: 40 (with early stopping)
 Patience: 5 epochs
 Mixed Precision: FP16 (AMP enabled)
-Device: NVIDIA RTX 4050 Laptop GPU
 Cache: Enabled (for faster training)
 ```
 
@@ -591,4 +590,5 @@ All preprocessing, training configuration, augmentation strategies, analysis, an
 - ChatGPT (OpenAI GPT-5, 2025) & Claude 3 – was used as a learning and coding assistant for code structuring, documentation refinement and explanation refinement. All implementation decisions and final outputs were independently verified and executed by me.
 
 ---
+
 
