@@ -488,7 +488,7 @@ trtexec --onnx=results/crack_detector/weights/best.onnx \
 
 ### 9.4 Small Crack Detection
 **Challenge:** Hairline cracks (<2mm) difficult at 640px resolution  
-**Solution:** Future work—higher resolution training (1024px)  
+**Solution:** Future work, higher resolution training (1024px)  
 **Outcome:** Trade-off between speed and fine-detail recall
 
 ---
@@ -590,5 +590,6 @@ All preprocessing, training configuration, augmentation strategies, analysis, an
 - ChatGPT (OpenAI GPT-5, 2025) & Claude 3 – was used as a learning and coding assistant for code structuring, documentation refinement and explanation refinement. All implementation decisions and final outputs were independently verified and executed by me.
 
 ---
+
 
 
